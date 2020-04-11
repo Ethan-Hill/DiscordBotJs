@@ -13,6 +13,8 @@
 
 1) Open the terminal within the bot directory.
 
-2) Type "node bot.js"
+2) Change the bot token in config.
 
-3) The terminal should tell you that it is logged in!
+3) Type "node bot.js"
+
+4) The terminal should tell you that it is logged in!
