@@ -1,6 +1,3 @@
-# 17JsProject
-## This is a project for 17.
-
 **To start creating the enviroment for the bot you need to first npm i discord.js into the directory of the bot.**
 
 1) Make sure you have node installed https://nodejs.org/en/download/
